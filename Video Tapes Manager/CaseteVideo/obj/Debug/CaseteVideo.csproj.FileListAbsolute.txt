@@ -1,0 +1,53 @@
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.exe.config
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Form1.resources
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Form2.resources
+D:\ASE\Anul 2\PAW\Test\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Inchiriere.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.exe.config
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Form1.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Form2.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\bin\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Inchiriaza.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\obj\Debug\CaseteVideo.Returneaza.resources
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\bin\Debug\Database1.mdf
+D:\ASE\Anul 2\PAW\Proiect\CaseteVideo\CaseteVideo\bin\Debug\Database1_log.ldf
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.exe.config
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\Database1.mdf
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\Database1_log.ldf
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Form1.resources
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Form2.resources
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Inchiriaza.resources
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Returneaza.resources
+D:\ASE\Anul 2\PAW\Proiect\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.exe.config
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\Database1.mdf
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\Database1_log.ldf
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.exe
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\bin\Debug\CaseteVideo.pdb
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Form1.resources
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Form2.resources
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Inchiriaza.resources
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.Returneaza.resources
+D:\ASE\Anul 2\PAW\Proiect - Airinei Vlad - Grupa 1032\Airinei Vlad - 1032 - Inchiriere Casete Video\CaseteVideo\obj\Debug\CaseteVideo.csproj.GenerateResource.Cache

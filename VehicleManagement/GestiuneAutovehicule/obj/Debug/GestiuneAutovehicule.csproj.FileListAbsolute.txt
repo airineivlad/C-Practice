@@ -1,0 +1,11 @@
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\bin\Debug\GestiuneAutovehicule.exe.config
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.Form1.resources
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\bin\Debug\GestiuneAutovehicule.exe
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\bin\Debug\GestiuneAutovehicule.pdb
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.exe
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\obj\Debug\GestiuneAutovehicule.pdb
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\bin\Debug\Database1.mdf
+D:\ASE\Anul 2\PAW\Examen\GestiuneAutovehicule\GestiuneAutovehicule\bin\Debug\Database1_log.ldf

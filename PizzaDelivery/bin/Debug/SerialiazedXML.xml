@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComandaPizza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComandaPizza>
+    <nume>Prosciuto</nume>
+    <blat>Pufos</blat>
+    <durataRealizare>3</durataRealizare>
+  </ComandaPizza>
+</ArrayOfComandaPizza>

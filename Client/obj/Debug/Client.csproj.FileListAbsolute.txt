@@ -1,0 +1,18 @@
+c:\users\banned\documents\visual studio 2015\Projects\Client\bin\Debug\Client.exe.config
+c:\users\banned\documents\visual studio 2015\Projects\Client\bin\Debug\Client.exe
+c:\users\banned\documents\visual studio 2015\Projects\Client\bin\Debug\Client.pdb
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.exe
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.pdb
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.Form1.resources
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\banned\documents\visual studio 2015\Projects\Client\obj\Debug\Client.Form2.resources
+D:\ASE\Anul 2\PAW\Examen\Client\bin\Debug\Client.exe.config
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.exe
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.pdb
+D:\ASE\Anul 2\PAW\Examen\Client\bin\Debug\Client.exe
+D:\ASE\Anul 2\PAW\Examen\Client\bin\Debug\Client.pdb
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.Form1.resources
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.Form2.resources
+D:\ASE\Anul 2\PAW\Examen\Client\obj\Debug\Client.csproj.GenerateResource.Cache

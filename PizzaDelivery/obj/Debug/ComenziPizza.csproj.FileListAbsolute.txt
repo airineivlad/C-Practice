@@ -1,0 +1,14 @@
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\bin\Debug\ComenziPizza.exe.config
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\bin\Debug\ComenziPizza.exe
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\bin\Debug\ComenziPizza.pdb
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.csprojResolveAssemblyReference.cache
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.exe
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.pdb
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.Form1.resources
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.csproj.GenerateResource.Cache
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\bin\Debug\System.Data.SQLite.dll
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\bin\Debug\System.Data.SQLite.xml
+c:\users\banned\documents\visual studio 2015\Projects\ComenziPizza\obj\Debug\ComenziPizza.Form2.resources
+D:\ASE\Anul 2\PAW\Examen\ComenziPizza\bin\Debug\ComenziPizza.exe.config
+D:\ASE\Anul 2\PAW\Examen\ComenziPizza\obj\Debug\ComenziPizza.exe
+D:\ASE\Anul 2\PAW\Examen\ComenziPizza\obj\Debug\ComenziPizza.pdb

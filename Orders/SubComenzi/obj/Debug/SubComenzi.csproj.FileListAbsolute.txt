@@ -1,0 +1,10 @@
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\bin\Debug\SubComenzi.exe.config
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\bin\Debug\SubComenzi.exe
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\bin\Debug\SubComenzi.pdb
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.Form1.resources
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.exe
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.pdb
+D:\ASE\Anul 2\PAW\Examen\SubComenzi\SubComenzi\obj\Debug\SubComenzi.Editare.resources

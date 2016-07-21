@@ -1,0 +1,10 @@
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\bin\Debug\ComandaProdus.exe.config
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.csprojResolveAssemblyReference.cache
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.Form1.resources
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.Properties.Resources.resources
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\bin\Debug\ComandaProdus.exe
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\bin\Debug\ComandaProdus.pdb
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.exe
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.pdb
+D:\ASE\Anul 2\PAW\Examen\ComandaProdus\ComandaProdus\obj\Debug\ComandaProdus.Form2.resources

@@ -1,0 +1,21 @@
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.exe.config
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.exe
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.pdb
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.csprojResolveAssemblyReference.cache
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.Form1.resources
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.Properties.Resources.resources
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.csproj.GenerateResource.Cache
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.exe
+c:\users\stud\documents\visual studio 2015\Projects\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.pdb
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.exe.config
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.exe
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.pdb
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.exe
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.pdb
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.csprojResolveAssemblyReference.cache
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.Form1.resources
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.Properties.Resources.resources
+D:\ASE\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.csproj.GenerateResource.Cache
+D:\ASE\Anul 2\PAW\GraficaSeminar7\GraficaSeminar7\bin\Debug\GraficaSeminar7.exe.config
+D:\ASE\Anul 2\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.exe
+D:\ASE\Anul 2\PAW\GraficaSeminar7\GraficaSeminar7\obj\Debug\GraficaSeminar7.pdb
